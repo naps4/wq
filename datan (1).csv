@@ -1,0 +1,724 @@
+﻿nama_kabupaten_kota;kode_kecamatan;nama_kecamatan;kode_desa;kode_desa;nama_desa;tahun;jenis_kelamin;jumlah_buruh_pabrik;satuan
+1101;Kabupaten Aceh Selatan;110102;Kluet Utara;1101022002;Krueng Batee;2024;Laki-laki;20;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012005;Ujong Baroh;2024;Perempuan;21;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042043;Lueng Buloh;2024;Perempuan;11;Jiwa
+1105;Kabupaten Aceh Barat;110510;Woyla Barat;1105102007;Blang Cot Rubek;2024;Perempuan;22;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022027;Meunasah Cut;2024;Perempuan;2;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022028;Meunasah Blang;2024;Perempuan;0;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032001;Reukih Dayah;2024;Perempuan;10;Jiwa
+1101;Kabupaten Aceh Selatan;110102;Kluet Utara;1101022009;Pulo Kambing;2024;Laki-laki;0;Jiwa
+1101;Kabupaten Aceh Selatan;110102;Kluet Utara;1101022010;Kampung Paya;2024;Laki-laki;6;Jiwa
+1101;Kabupaten Aceh Selatan;110102;Kluet Utara;1101022011;Krueng Batu;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110512;Panton Reu;1105122017;Babah Krueng Manggie;2024;Laki-laki;1;Jiwa
+1105;Kabupaten Aceh Barat;110512;Panton Reu;1105122018;Gunong Mata Ie;2024;Laki-laki;3;Jiwa
+1101;Kabupaten Aceh Selatan;110102;Kluet Utara;1101022014;Kampung Tinggi;2024;Laki-laki;0;Jiwa
+1101;Kabupaten Aceh Selatan;110102;Kluet Utara;1101022015;Ruak;2024;Laki-laki;5;Jiwa
+1101;Kabupaten Aceh Selatan;110102;Kluet Utara;1101022016;Simpang Lhee;2024;Laki-laki;4;Jiwa
+1105;Kabupaten Aceh Barat;110512;Panton Reu;1105122019;Lek-Lek;2024;Laki-laki;10;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012001;Meunasah Krueng Kala;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012002;Jantang;2024;Laki-laki;3;Jiwa
+1101;Kabupaten Aceh Selatan;110102;Kluet Utara;1101022020;Kotafajar;2024;Laki-laki;55;Jiwa
+1101;Kabupaten Aceh Selatan;110105;Meukek;1101052010;Ladang Tuha;2024;Laki-laki;0;Jiwa
+1101;Kabupaten Aceh Selatan;110105;Meukek;1101052011;Lhok Mamplam;2024;Laki-laki;3;Jiwa
+1101;Kabupaten Aceh Selatan;110105;Meukek;1101052012;Arun Tunggai;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012003;Baroh Krueng Kala;2024;Laki-laki;2;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012004;Tunong Krueng Kala;2024;Laki-laki;1;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012005;Sungko Mulat;2024;Laki-laki;2;Jiwa
+1101;Kabupaten Aceh Selatan;110105;Meukek;1101052016;Keude Meukek;2024;Laki-laki;1;Jiwa
+1101;Kabupaten Aceh Selatan;110105;Meukek;1101052017;Kuta Baro;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110410;Ketol;1104102002;Blang Mancung;2024;Perempuan;8;Jiwa
+1104;Kabupaten Aceh Tengah;110411;Kebayakan;1104112009;Pinangan;2024;Perempuan;14;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172003;Asir Asir Asia;2024;Perempuan;3;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172004;Bale Atu;2024;Perempuan;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172005;Bujang;2024;Perempuan;5;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172006;Gunung Suku;2024;Perempuan;0;Jiwa
+1101;Kabupaten Aceh Selatan;110107;Sawang;1101072010;Simpang Tiga;2024;Laki-laki;2;Jiwa
+1101;Kabupaten Aceh Selatan;110107;Sawang;1101072007;Trieng Meuduro Baroh;2024;Laki-laki;3;Jiwa
+1101;Kabupaten Aceh Selatan;110108;Tapaktuan;1101082013;Panjupian;2024;Laki-laki;1;Jiwa
+1101;Kabupaten Aceh Selatan;110110;Pasi Raja;1101102006;Paya Ateuk;2024;Laki-laki;20;Jiwa
+1101;Kabupaten Aceh Selatan;110110;Pasi Raja;1101102018;Teupin Gajah;2024;Laki-laki;19;Jiwa
+1101;Kabupaten Aceh Selatan;110111;Labuhan Haji Timur;1101112002;Paya Peulumat;2024;Laki-laki;3;Jiwa
+1101;Kabupaten Aceh Selatan;110111;Labuhan Haji Timur;1101112011;Keumumu Seberang;2024;Laki-laki;2;Jiwa
+1101;Kabupaten Aceh Selatan;110112;Labuhan Haji Barat;1101122004;Kuta Iboh;2024;Laki-laki;1;Jiwa
+1101;Kabupaten Aceh Selatan;110112;Labuhan Haji Barat;1101122009;Suak Lokan;2024;Laki-laki;6;Jiwa
+1101;Kabupaten Aceh Selatan;110112;Labuhan Haji Barat;1101122010;Iku Lhueng;2024;Laki-laki;0;Jiwa
+1101;Kabupaten Aceh Selatan;110112;Labuhan Haji Barat;1101122011;Kuta Trieng;2024;Laki-laki;5;Jiwa
+1102;Kabupaten Aceh Tenggara;110205;Badar;1102052036;Lawe Sekerah;2024;Laki-laki;35;Jiwa
+1102;Kabupaten Aceh Tenggara;110206;Babul Makmur;1102062005;Cinta Damai;2024;Laki-laki;35;Jiwa
+1102;Kabupaten Aceh Tenggara;110206;Babul Makmur;1102062011;Sejahtera;2024;Laki-laki;3;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072012;Sri Muda;2024;Laki-laki;10;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072013;Ujung Baru;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072014;Kute Rambe;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072015;Mamas Baru;2024;Laki-laki;20;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072016;Rambung Jaya;2024;Laki-laki;3;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072023;Lawe Mamas Indah;2024;Laki-laki;1;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072024;Tanjung Leuser;2024;Laki-laki;10;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072025;Simpang Iv Tanjung;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072026;Lawe Pinis;2024;Laki-laki;6;Jiwa
+1102;Kabupaten Aceh Tenggara;110207;Darul Hasanah;1102072027;Buntul Kendawi;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012009;Teungoh Blang Mee;2024;Laki-laki;5;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012010;Lamkuta Blang Mee;2024;Laki-laki;8;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012011;Baroh Blang Mee;2024;Laki-laki;2;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012012;Umong Seuribee;2024;Laki-laki;3;Jiwa
+1102;Kabupaten Aceh Tenggara;110208;Lawe Bulan;1102082004;Lawe Sagu Hulu;2024;Laki-laki;2;Jiwa
+1102;Kabupaten Aceh Tenggara;110208;Lawe Bulan;1102082027;Lawe Sagu;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110208;Lawe Bulan;1102082028;Pekhapet Timur;2024;Laki-laki;15;Jiwa
+1102;Kabupaten Aceh Tenggara;110209;Bukit Tusam;1102092011;Lawe Dua;2024;Laki-laki;29;Jiwa
+1102;Kabupaten Aceh Tenggara;110209;Bukit Tusam;1102092012;Rema;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110209;Bukit Tusam;1102092013;Bambel Baru;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110209;Bukit Tusam;1102092014;Pejuang;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110209;Bukit Tusam;1102092015;Darussalam;2024;Laki-laki;2;Jiwa
+1102;Kabupaten Aceh Tenggara;110210;Semadam;1102102012;Lawe Petanduk I;2024;Laki-laki;5;Jiwa
+1102;Kabupaten Aceh Tenggara;110210;Semadam;1102102013;Ngkeran Alur Buluh;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110210;Semadam;1102102014;Kampung Baru;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110210;Semadam;1102102015;Sepakat Segenap;2024;Laki-laki;10;Jiwa
+1102;Kabupaten Aceh Tenggara;110210;Semadam;1102102016;Selamat Indah;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110210;Semadam;1102102017;Lawe Kinge Lapter;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110210;Semadam;1102102018;Lawe Mejile;2024;Laki-laki;2;Jiwa
+1102;Kabupaten Aceh Tenggara;110212;Ketambe;1102122006;Jongar Asli;2024;Laki-laki;4;Jiwa
+1102;Kabupaten Aceh Tenggara;110210;Semadam;1102102001;Simpang Semadam;2024;Laki-laki;5;Jiwa
+1101;Kabupaten Aceh Selatan;110115;Bakongan Timur;1101152001;Pasie Seubadeh;2024;Laki-laki;6;Jiwa
+1101;Kabupaten Aceh Selatan;110115;Bakongan Timur;1101152002;Ladang Rimba;2024;Laki-laki;0;Jiwa
+1101;Kabupaten Aceh Selatan;110115;Bakongan Timur;1101152003;Ujong Pulo Rayeuk;2024;Laki-laki;10;Jiwa
+1101;Kabupaten Aceh Selatan;110115;Bakongan Timur;1101152004;Sawah Tingkeum;2024;Laki-laki;5;Jiwa
+1101;Kabupaten Aceh Selatan;110115;Bakongan Timur;1101152005;Simpang;2024;Laki-laki;3;Jiwa
+1101;Kabupaten Aceh Selatan;110115;Bakongan Timur;1101152006;Ujong Pulo Cut;2024;Laki-laki;10;Jiwa
+1101;Kabupaten Aceh Selatan;110115;Bakongan Timur;1101152008;Seuleukat;2024;Laki-laki;3;Jiwa
+1101;Kabupaten Aceh Selatan;110116;Trumon Timur;1101162005;Pinto Rimba;2024;Laki-laki;5;Jiwa
+1101;Kabupaten Aceh Selatan;110116;Trumon Timur;1101162006;Krueng Luas;2024;Laki-laki;24;Jiwa
+1101;Kabupaten Aceh Selatan;110116;Trumon Timur;1101162007;Jambo Dalem;2024;Laki-laki;0;Jiwa
+1101;Kabupaten Aceh Selatan;110116;Trumon Timur;1101162008;Kapa Sesak;2024;Laki-laki;24;Jiwa
+1101;Kabupaten Aceh Selatan;110116;Trumon Timur;1101162009;Seuneubok Punto;2024;Laki-laki;0;Jiwa
+1101;Kabupaten Aceh Selatan;110116;Trumon Timur;1101162010;Seuneubok Pusaka;2024;Laki-laki;0;Jiwa
+1101;Kabupaten Aceh Selatan;110116;Trumon Timur;1101162011;Alur Bujok;2024;Laki-laki;2;Jiwa
+1101;Kabupaten Aceh Selatan;110116;Trumon Timur;1101162012;Titi Poben;2024;Laki-laki;6;Jiwa
+1102;Kabupaten Aceh Tenggara;110201;Lawe Alas;1102012002;Rumah Kampung;2024;Laki-laki;5;Jiwa
+1102;Kabupaten Aceh Tenggara;110202;Lawe Sigala-Gala;1102022001;Bukit Merdeka;2024;Laki-laki;1;Jiwa
+1102;Kabupaten Aceh Tenggara;110203;Bambel;1102032002;Kisam;2024;Laki-laki;1;Jiwa
+1102;Kabupaten Aceh Tenggara;110205;Badar;1102052011;Purwodadi;2024;Laki-laki;35;Jiwa
+1102;Kabupaten Aceh Tenggara;110205;Badar;1102052026;Kumbang Indah;2024;Laki-laki;15;Jiwa
+1102;Kabupaten Aceh Tenggara;110205;Badar;1102052027;Natam Baru;2024;Laki-laki;0;Jiwa
+1102;Kabupaten Aceh Tenggara;110205;Badar;1102052029;Deleng Megakhe;2024;Laki-laki;13;Jiwa
+1102;Kabupaten Aceh Tenggara;110203;Bambel;1102032021;Rikit;2024;Laki-laki;2;Jiwa
+1102;Kabupaten Aceh Tenggara;110203;Bambel;1102032038;Terutung Payung Gabungan;2024;Laki-laki;4;Jiwa
+1102;Kabupaten Aceh Tenggara;110213;Deleng Pokhkisen;1102132017;Tading Ni Ulihi;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112010;Meunasah Tunong;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112011;Meunasah Teungoh;2024;Laki-laki;23;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112012;Keude Baro;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112013;Matang Perlak;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112014;Grong-Grong;2024;Laki-laki;9;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112015;Matang Kruet;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112016;Meunasah Leubok;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112017;Pante Panah;2024;Laki-laki;4;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112018;Paya Demam Sa;2024;Laki-laki;17;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112019;Paya Demam Dua;2024;Laki-laki;12;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112020;Paya Demam Lhee;2024;Laki-laki;6;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112021;Matang Pudeng;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112022;Putoh Sa;2024;Laki-laki;21;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112023;Putoh Dua;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112024;Sah Raja;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112025;Sijudo;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110312;Madat;1103122001;Madat;2024;Laki-laki;25;Jiwa
+1103;Kabupaten Aceh Timur;110312;Madat;1103122002;Matang Keupula Sa;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110312;Madat;1103122019;Tanjong Minjei;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112007;Seuneubok Saboh;2024;Laki-laki;17;Jiwa
+1103;Kabupaten Aceh Timur;110312;Madat;1103122016;Tanjong Ara;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110312;Madat;1103122022;Bintah;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110312;Madat;1103122023;Seuneubok Pidie;2024;Laki-laki;37;Jiwa
+1103;Kabupaten Aceh Timur;110313;Indra Makmu;1103132007;Suka Makmur;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110313;Indra Makmu;1103132008;Jambo Balee;2024;Laki-laki;8;Jiwa
+1103;Kabupaten Aceh Timur;110313;Indra Makmu;1103132009;Jambo Lubok;2024;Laki-laki;25;Jiwa
+1103;Kabupaten Aceh Timur;110315;Banda Alam;1103152011;Buket Drien;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110315;Banda Alam;1103152012;Panton Rayeuk A;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110315;Banda Alam;1103152013;Panton Rayeuk B;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110315;Banda Alam;1103152014;Panton Rayeuk M;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142007;Keude Keumuneng;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142008;Keumuneng Lhok;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142009;Paya Awee;2024;Laki-laki;15;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142010;Paya Gaboh;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142011;Padang Kasah;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142012;Buket Teukuh;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142013;Buket Pu'Uk;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142014;Blang Minjei;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110314;Idi Tunong;1103142015;Alue Kumbang A;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110316;Peudawa;1103162013;Sama Dua;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110316;Peudawa;1103162016;Seuneubok Peunteut;2024;Laki-laki;239;Jiwa
+1103;Kabupaten Aceh Timur;110316;Peudawa;1103162017;Paya Bili Sa;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172001;Babah Krueng;2024;Laki-laki;4;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172002;Kruet Lintang;2024;Laki-laki;15;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172003;Jengki;2024;Laki-laki;12;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172008;Alue Bugeng;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172009;Seuneubok Punti;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172010;Seumatang Keude;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172011;Seuneubok Jalan;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172012;Seuneubok Paya;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172013;Alue Tho;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172014;Seuneubok Rawang;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172015;Alue Bu Alue Nireh;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172016;Seuneubok Dalam;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172017;Seuneubok Lapang;2024;Laki-laki;20;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172018;Gelanggang Meurak;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172019;Alue Bu Alue Lhok;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172020;Tualang Pateng;2024;Laki-laki;10;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182001;Beusa Seberang;2024;Laki-laki;70;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182002;Mon Geudong;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182003;Paya Seungat;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182004;Teumpeun;2024;Laki-laki;27;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182005;Alue Bu Tuha;2024;Laki-laki;32;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182006;Alue Bu Jalan;2024;Laki-laki;15;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182007;Tanjong Tualang;2024;Laki-laki;8;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182008;Beringen;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182009;Kebon Tempeun;2024;Laki-laki;12;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182010;Paya Gajah;2024;Laki-laki;17;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182011;Kabu;2024;Laki-laki;7;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182012;Paya Biek;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182013;Beusa Baroh;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182014;Alue Bu Jalan Baroh;2024;Laki-laki;15;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182015;Alue Bu Tunong;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192001;Alue Rangan;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192002;Geulumpang Payong;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192003;Labuhan Keudee;2024;Laki-laki;55;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192004;Buket Seulamat;2024;Laki-laki;18;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192005;Buket Drien;2024;Laki-laki;14;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192010;Seuneubok Aceh;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110321;Darul Ihsan;1103212010;Pulo Blang;2024;Laki-laki;7;Jiwa
+1103;Kabupaten Aceh Timur;110322;Darul Falah;1103222002;Cempeudak;2024;Laki-laki;9;Jiwa
+1103;Kabupaten Aceh Timur;110322;Darul Falah;1103222003;Buket Tufah;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110322;Darul Falah;1103222004;Tunong Ulee Gajah;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110322;Darul Falah;1103222005;Keudondong;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110322;Darul Falah;1103222006;Seuneubok Panton;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110322;Darul Falah;1103222007;Buket Teumpeun;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110322;Darul Falah;1103222008;Keude Blang;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062003;Asan Tanjong;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062004;Bantayan;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062005;Matang Seuleumak;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062006;Teupin Pukat;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062007;Matang Neuheun;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062008;Kuala Bagok;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062009;Meunasah Teungoh;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062010;Medang Ara;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062011;Peulawi;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062012;Baroh Bugeng;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062013;Seumatang Aron;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062014;Blang Panjou;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062025;Pulo U;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062026;Cot Asan;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092018;Teupin Mamplam;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092019;Titi Baroh;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092020;Pucok Alue Sa;2024;Laki-laki;10;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092021;Pucok Alue Barat;2024;Laki-laki;6;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092022;Arakundo;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092023;Gampong Baro;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092024;Matang Seupeng;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110310;Ranto Peureulak;1103102001;Paya Unou;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110310;Ranto Peureulak;1103102013;Alue Udep;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110310;Ranto Peureulak;1103102024;Seumanah Jaya;2024;Laki-laki;50;Jiwa
+1103;Kabupaten Aceh Timur;110310;Ranto Peureulak;1103102007;Seuleumak Muda;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110306;Nurussalam;1103062041;Seuneubok Rambong;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072001;Pasir Putih;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072013;Beusa Meuranoe;2024;Laki-laki;15;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072014;Bangka Rimung;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072015;Tanoh Rata;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072016;Bandrong;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072022;Alue Nibong;2024;Laki-laki;10;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072023;Seuneubok Peusangan;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072024;Seuneubok Aceh;2024;Laki-laki;10;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072025;Seuneubok Pidie;2024;Laki-laki;17;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072026;Dama Tutong;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072027;Matang Gleum;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072028;Lubok Pempeng;2024;Laki-laki;12;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072029;Buket Pala;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072030;Paya Kalui;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072031;Cek Mbon;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072032;Paya Meuligou;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072033;Blang Simpo;2024;Laki-laki;7;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072034;Blang Batee;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072035;Matang Peulawi;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072036;Cot Geulumpang;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072037;Alue Rambong;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110307;Peureulak;1103072038;Cot Keh;2024;Laki-laki;15;Jiwa
+1103;Kabupaten Aceh Timur;110308;Rantau Selamat;1103082001;Bayeun;2024;Laki-laki;65;Jiwa
+1103;Kabupaten Aceh Timur;110308;Rantau Selamat;1103082002;Rantau Panjang;2024;Laki-laki;4;Jiwa
+1103;Kabupaten Aceh Timur;110308;Rantau Selamat;1103082006;Alue Seuleumak;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110308;Rantau Selamat;1103082007;Sarah Kayee;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110308;Rantau Selamat;1103082008;Damar Siput;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110308;Rantau Selamat;1103082009;Simpang Peut;2024;Laki-laki;4;Jiwa
+1103;Kabupaten Aceh Timur;110308;Rantau Selamat;1103082010;Simpang Aneuh;2024;Laki-laki;10;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092001;Peulalu;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092002;Nicah Awe;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092003;Alue Buloh Sa;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092004;Alue Buloh Dua;2024;Laki-laki;9;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092005;Teupin Breuh;2024;Laki-laki;12;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092006;Matang Rayeuk;2024;Laki-laki;18;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092007;Matang Kumbang;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092008;Blang Nie;2024;Laki-laki;16;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092010;Bantayan;2024;Laki-laki;9;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092011;Matang Weng;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092012;Alue Mulieng;2024;Laki-laki;6;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092013;Pucok Alue Dua;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110309;Simpang Ulim;1103092014;Gampong Blang;2024;Laki-laki;7;Jiwa
+1103;Kabupaten Aceh Timur;110301;Darul Aman;1103012018;Seuneubok Tuha Dua;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110301;Darul Aman;1103012008;Jungka Gajah;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110301;Darul Aman;1103012009;Seuneubok Simpang;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110301;Darul Aman;1103012010;Matang Pineung;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022010;Teupin Raya;2024;Laki-laki;4;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022011;Lhok Rambong;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022012;Julok Tunong;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022013;Ulee Ateung;2024;Laki-laki;12;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022014;Ulee Blang;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022015;Labuhan;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022020;Blang Pauh Sa;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022021;Blang Pauh Dua;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022022;Ulee Tanoh;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022023;Keude Kuta Binjei;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022024;Bukit Seroja;2024;Laki-laki;20;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022025;Kuala Geulumpang;2024;Laki-laki;6;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022026;Gampong Baro;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022027;Tumpok Teungoh;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022028;Seumatang;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022029;Ujong Tunong;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022030;Bukit Dindeng;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022031;Paya Pasi;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022032;Alue Cek Doi;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022033;Blang Gleum;2024;Laki-laki;65;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022034;Tanjong Tok Blang;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022035;Buket Makmu;2024;Laki-laki;13;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022036;Lhok Seuntang;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110302;Julok;1103022037;Simpang Lhee;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032001;Gampong Jawa;2024;Laki-laki;121;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032002;Keude Blang;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032003;Tanoh Anoe;2024;Laki-laki;23;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032004;Kuala Peudawa Puntong;2024;Laki-laki;15;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032011;Keutapang Mameh;2024;Laki-laki;55;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032012;Seuneubok Rambong;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032013;Kuala Idi;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032014;Keude Aceh;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032023;Seuneubok Bacee;2024;Laki-laki;30;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032052;Buket Meulinteung;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032053;Gampong Jalan;2024;Laki-laki;15;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032054;Teupin Batee;2024;Laki-laki;8;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032055;Buket Langa;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032056;Buket Pala;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032057;Buket Juara;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032058;Seuneubok Tutong;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032059;Seuneubok Tuha;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032060;Sampoimah;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032061;Dama Pulo;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032062;Gureb Blang;2024;Laki-laki;1;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032064;Gampong Baro;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110303;Idi Rayeuk;1103032065;Seuneubokteungoh P.Puntong;2024;Laki-laki;2;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042008;Peutow;2024;Laki-laki;3;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042009;Alue Buloh;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042010;Alue Teh;2024;Laki-laki;10;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042011;Paya Rambong;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042012;Alue Gadeng Sa;2024;Laki-laki;12;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042013;Paya Tampah;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042014;Paya Bili Dua;2024;Laki-laki;5;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042015;Paya Bili Sa;2024;Laki-laki;6;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042016;Paya Peulawi;2024;Laki-laki;10;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042017;Keude Birem;2024;Laki-laki;11;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042018;Bayeun;2024;Laki-laki;31;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042019;Aramiyah;2024;Laki-laki;101;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042020;Blang Tualang;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042021;Buket Seuleumak;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042022;Birem Rayeuk;2024;Laki-laki;39;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042023;Alue Gadeng;2024;Laki-laki;12;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042024;Alue Gadeng Dua;2024;Laki-laki;0;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042025;Alue Sentang;2024;Laki-laki;10;Jiwa
+1103;Kabupaten Aceh Timur;110304;Birem Bayeun;1103042026;Merbou Dua;2024;Laki-laki;26;Jiwa
+1103;Kabupaten Aceh Timur;110310;Ranto Peureulak;1103102024;Seumanah Jaya;2024;Perempuan;25;Jiwa
+1103;Kabupaten Aceh Timur;110311;Pante Bidari;1103112007;Seuneubok Saboh;2024;Perempuan;12;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032001;Blang Kolak I;2024;Perempuan;80;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032002;Bebesan;2024;Perempuan;0;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032003;Mongal;2024;Perempuan;30;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032010;Blang Kolak Ii;2024;Perempuan;156;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032011;Umang;2024;Perempuan;20;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032012;Simpang Iv;2024;Perempuan;16;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072009;Ie Relop;2024;Perempuan;2;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072010;Kayu Kul;2024;Perempuan;18;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072011;Kedelah;2024;Perempuan;2;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072012;Kung;2024;Perempuan;0;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072013;Kute Lintang;2024;Perempuan;0;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072014;Lelumu;2024;Perempuan;0;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072016;Paya Jeget;2024;Perempuan;30;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032018;Empus Talu;2024;Perempuan;51;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032023;Nunang Antara;2024;Perempuan;50;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182015;Alue Bu Tunong;2024;Perempuan;4;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192001;Alue Rangan;2024;Perempuan;0;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192002;Geulumpang Payong;2024;Perempuan;1;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192003;Labuhan Keudee;2024;Perempuan;42;Jiwa
+1103;Kabupaten Aceh Timur;110319;Sungai Raya;1103192004;Buket Seulamat;2024;Perempuan;12;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182005;Alue Bu Tuha;2024;Perempuan;5;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182006;Alue Bu Jalan;2024;Perempuan;2;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182007;Tanjong Tualang;2024;Perempuan;3;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182009;Kebon Tempeun;2024;Perempuan;4;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182010;Paya Gajah;2024;Perempuan;2;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172017;Seuneubok Lapang;2024;Perempuan;2;Jiwa
+1103;Kabupaten Aceh Timur;110317;Peureulak Timur;1103172018;Gelanggang Meurak;2024;Perempuan;5;Jiwa
+1103;Kabupaten Aceh Timur;110318;Peureulak Barat;1103182001;Beusa Seberang;2024;Perempuan;7;Jiwa
+1115;Kabupaten Nagan Raya;111502;Seunagan;1115022020;Bantan;2024;Perempuan;13;Jiwa
+1115;Kabupaten Nagan Raya;111507;Kuala Pesisir;1115072013;Jati Rejo;2024;Perempuan;10;Jiwa
+1115;Kabupaten Nagan Raya;111507;Kuala Pesisir;1115072011;Padang Panyang;2024;Perempuan;8;Jiwa
+1175;Kota Subulussalam;117504;Sultan Daulat;1175042012;Singgersing;2024;Perempuan;37;Jiwa
+1175;Kota Subulussalam;117504;Sultan Daulat;1175042013;Namo Buaya;2024;Perempuan;22;Jiwa
+1175;Kota Subulussalam;117504;Sultan Daulat;1175042009;Jambi Baru;2024;Perempuan;5;Jiwa
+1175;Kota Subulussalam;117504;Sultan Daulat;1175042019;Jabi-Jabi Barat;2024;Perempuan;2;Jiwa
+1175;Kota Subulussalam;117504;Sultan Daulat;1175042020;Batu Napal;2024;Perempuan;30;Jiwa
+1175;Kota Subulussalam;117502;Penanggalan;1175022010;Lae Bersih;2024;Perempuan;3;Jiwa
+1175;Kota Subulussalam;117503;Rundeng;1175032008;Muara Batu-Batu;2024;Perempuan;3;Jiwa
+1175;Kota Subulussalam;117503;Rundeng;1175032009;Siperkas;2024;Perempuan;2;Jiwa
+1175;Kota Subulussalam;117504;Sultan Daulat;1175042002;Bawan;2024;Perempuan;2;Jiwa
+1175;Kota Subulussalam;117501;Simpang Kiri;1175012014;Makmur Jaya;2024;Perempuan;9;Jiwa
+1175;Kota Subulussalam;117501;Simpang Kiri;1175012017;Subulussalam Timur;2024;Perempuan;10;Jiwa
+1174;Kota Langsa;117402;Langsa Barat;1174022017;Kuala Langsa;2024;Perempuan;5;Jiwa
+1174;Kota Langsa;117404;Langsa Lama;1174042006;Baro;2024;Perempuan;101;Jiwa
+1174;Kota Langsa;117404;Langsa Lama;1174042007;Meurandeh;2024;Perempuan;0;Jiwa
+1174;Kota Langsa;117404;Langsa Lama;1174042008;Asam Peutik;2024;Perempuan;10;Jiwa
+1174;Kota Langsa;117405;Langsa Baro;1174052004;Paya Bujok Seuleumak;2024;Perempuan;97;Jiwa
+1174;Kota Langsa;117405;Langsa Baro;1174052009;Geudubang Aceh;2024;Perempuan;14;Jiwa
+1173;Kota Lhokseumawe;117304;Muara Satu;1173042007;Blang Naleung Mameh;2024;Perempuan;25;Jiwa
+1174;Kota Langsa;117405;Langsa Baro;1174052011;Lengkong;2024;Perempuan;2;Jiwa
+1175;Kota Subulussalam;117501;Simpang Kiri;1175012008;Suka Makmur;2024;Perempuan;15;Jiwa
+1175;Kota Subulussalam;117501;Simpang Kiri;1175012001;Subulussalam;2024;Perempuan;18;Jiwa
+1175;Kota Subulussalam;117501;Simpang Kiri;1175012002;Pegayo;2024;Perempuan;1;Jiwa
+1175;Kota Subulussalam;117501;Simpang Kiri;1175012004;Buluh Dori;2024;Perempuan;3;Jiwa
+1175;Kota Subulussalam;117501;Simpang Kiri;1175012005;Subulussalam Utara;2024;Perempuan;7;Jiwa
+1173;Kota Lhokseumawe;117303;Blang Mangat;1173032012;Blang Punteuet;2024;Perempuan;20;Jiwa
+1173;Kota Lhokseumawe;117303;Blang Mangat;1173032013;Kumbang Punteuet;2024;Perempuan;20;Jiwa
+1173;Kota Lhokseumawe;117303;Blang Mangat;1173032014;Mesjid Punteuet;2024;Perempuan;9;Jiwa
+1173;Kota Lhokseumawe;117304;Muara Satu;1173042001;Batuphat Barat;2024;Perempuan;20;Jiwa
+1173;Kota Lhokseumawe;117304;Muara Satu;1173042002;Blang Panyang;2024;Perempuan;23;Jiwa
+1118;Kabupaten Pidie Jaya;111802;Ulim;1118022025;Meunasah Mesjid;2024;Perempuan;2;Jiwa
+1118;Kabupaten Pidie Jaya;111802;Ulim;1118022006;Geulanggang;2024;Perempuan;4;Jiwa
+1118;Kabupaten Pidie Jaya;111804;Bandar Dua;1118042022;Muko Dayah;2024;Perempuan;1;Jiwa
+1118;Kabupaten Pidie Jaya;111804;Bandar Dua;1118042028;Meurandeh Alue;2024;Perempuan;3;Jiwa
+1118;Kabupaten Pidie Jaya;111805;Meurah Dua;1118052005;Meunasah Kulam;2024;Perempuan;1;Jiwa
+1118;Kabupaten Pidie Jaya;111805;Meurah Dua;1118052006;Meunasah Teungoh;2024;Perempuan;2;Jiwa
+1118;Kabupaten Pidie Jaya;111806;Bandar Baru;1118062017;Udeung;2024;Perempuan;2;Jiwa
+1118;Kabupaten Pidie Jaya;111806;Bandar Baru;1118062032;Blang Baro;2024;Perempuan;5;Jiwa
+1118;Kabupaten Pidie Jaya;111808;Trienggadeng;1118082018;Peulandok Teungoh;2024;Perempuan;2;Jiwa
+1118;Kabupaten Pidie Jaya;111808;Trienggadeng;1118082019;Peulandok Tunong;2024;Perempuan;1;Jiwa
+1171;Kota Banda Aceh;117101;Baiturrahman;1171012002;Neusu Jaya;2024;Perempuan;7;Jiwa
+1118;Kabupaten Pidie Jaya;111802;Ulim;1118022023;Nangrhoe Barat;2024;Perempuan;1;Jiwa
+1116;Kabupaten Aceh Tamiang;111602;Bendahara;1116022020;Raja;2024;Perempuan;2;Jiwa
+1116;Kabupaten Aceh Tamiang;111602;Bendahara;1116022021;Tumpok Tengoh;2024;Perempuan;6;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042004;Pantai Balai;2024;Perempuan;18;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042008;Perkebunan Seruway;2024;Perempuan;25;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042009;Gedung Biara;2024;Perempuan;3;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042010;Alur Alim;2024;Perempuan;0;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042011;Tualang;2024;Perempuan;1;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042021;Sungai Kuruk I;2024;Perempuan;10;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042022;Sungai Kuruk Ii;2024;Perempuan;0;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042023;Sungai Kuruk Iii;2024;Perempuan;28;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042024;Tangsi Lama;2024;Perempuan;19;Jiwa
+1116;Kabupaten Aceh Tamiang;111605;Kota Kualasinpang;1116052004;Bukit Tempurung;2024;Perempuan;10;Jiwa
+1116;Kabupaten Aceh Tamiang;111605;Kota Kualasinpang;1116052005;Kota Lintang;2024;Perempuan;28;Jiwa
+1116;Kabupaten Aceh Tamiang;111608;Rantau;1116082003;Paya Bedi;2024;Perempuan;7;Jiwa
+1116;Kabupaten Aceh Tamiang;111608;Rantau;1116082016;Suka Mulia;2024;Perempuan;1;Jiwa
+1116;Kabupaten Aceh Tamiang;111606;Kejuruan Muda;1116062016;Seumadam;2024;Perempuan;25;Jiwa
+1116;Kabupaten Aceh Tamiang;111606;Kejuruan Muda;1116062021;Alur Mentawak;2024;Perempuan;5;Jiwa
+1116;Kabupaten Aceh Tamiang;111610;Bandar Pusaka;1116102002;Jambo Rambong;2024;Perempuan;4;Jiwa
+1116;Kabupaten Aceh Tamiang;111610;Bandar Pusaka;1116102003;Blang Kandis;2024;Perempuan;10;Jiwa
+1116;Kabupaten Aceh Tamiang;111610;Bandar Pusaka;1116102010;Rantau Bintang;2024;Perempuan;2;Jiwa
+1116;Kabupaten Aceh Tamiang;111610;Bandar Pusaka;1116102011;Babo;2024;Perempuan;86;Jiwa
+1116;Kabupaten Aceh Tamiang;111611;Tenggulun;1116112003;Tenggulun;2024;Perempuan;21;Jiwa
+1116;Kabupaten Aceh Tamiang;111611;Tenggulun;1116112004;Selamat;2024;Perempuan;41;Jiwa
+1116;Kabupaten Aceh Tamiang;111611;Tenggulun;1116112005;Simpang Kiri;2024;Perempuan;4;Jiwa
+1116;Kabupaten Aceh Tamiang;111611;Tenggulun;1116112006;Sumber Makmur;2024;Perempuan;24;Jiwa
+1117;Kabupaten Bener Meriah;111706;Wih Pesam;1117062009;Suka Ramai Atas;2024;Perempuan;5;Jiwa
+1117;Kabupaten Bener Meriah;111709;Mesidah;1117092006;Jamur Atu Jaya;2024;Perempuan;3;Jiwa
+1117;Kabupaten Bener Meriah;111709;Mesidah;1117092013;Perumpaken Benjadi;2024;Perempuan;3;Jiwa
+1116;Kabupaten Aceh Tamiang;111603;Karang Baru;1116032012;Tanah Terban;2024;Perempuan;3;Jiwa
+1116;Kabupaten Aceh Tamiang;111603;Karang Baru;1116032007;Tanjung Karang;2024;Perempuan;6;Jiwa
+1116;Kabupaten Aceh Tamiang;111603;Karang Baru;1116032015;Tupah;2024;Perempuan;6;Jiwa
+1116;Kabupaten Aceh Tamiang;111604;Seruway;1116042002;Pekan Seruway;2024;Perempuan;2;Jiwa
+1116;Kabupaten Aceh Tamiang;111603;Karang Baru;1116032031;Tanjung Seumantoh;2024;Perempuan;5;Jiwa
+1106;Kabupaten Aceh Besar;110609;Mesjid Raya;1106092007;Paya Kameng;2024;Laki-laki;47;Jiwa
+1116;Kabupaten Aceh Tamiang;111603;Karang Baru;1116032033;Kebun Tanjung Seumantoh;2024;Perempuan;6;Jiwa
+1116;Kabupaten Aceh Tamiang;111603;Karang Baru;1116032034;Bukit Panjang;2024;Perempuan;4;Jiwa
+1115;Kabupaten Nagan Raya;111508;Tadu Raya;1115082006;Gunong Kupok;2024;Perempuan;2;Jiwa
+1115;Kabupaten Nagan Raya;111508;Tadu Raya;1115082013;Simpang Jaya;2024;Perempuan;2;Jiwa
+1115;Kabupaten Nagan Raya;111508;Tadu Raya;1115082014;Sumber Daya;2024;Perempuan;2;Jiwa
+1115;Kabupaten Nagan Raya;111508;Tadu Raya;1115082009;Cot Mue;2024;Perempuan;25;Jiwa
+1115;Kabupaten Nagan Raya;111508;Tadu Raya;1115082010;Babah Rot;2024;Perempuan;12;Jiwa
+1115;Kabupaten Nagan Raya;111508;Tadu Raya;1115082011;Babah Dua;2024;Perempuan;0;Jiwa
+1115;Kabupaten Nagan Raya;111508;Tadu Raya;1115082022;Cot Mee;2024;Perempuan;18;Jiwa
+1115;Kabupaten Nagan Raya;111508;Tadu Raya;1115082019;Alue Labu;2024;Perempuan;7;Jiwa
+1116;Kabupaten Aceh Tamiang;111601;Manyak Payed;1116012003;Buket Panyang Dua;2024;Perempuan;21;Jiwa
+1116;Kabupaten Aceh Tamiang;111601;Manyak Payed;1116012012;Ie Bintah;2024;Perempuan;19;Jiwa
+1115;Kabupaten Nagan Raya;111503;Seunagan Timur;1115032028;Ie Beudoh;2024;Perempuan;13;Jiwa
+1115;Kabupaten Nagan Raya;111505;Darul Makmur;1115052017;Alue Bilie;2024;Perempuan;11;Jiwa
+1115;Kabupaten Nagan Raya;111505;Darul Makmur;1115052018;Suka Raja;2024;Perempuan;10;Jiwa
+1115;Kabupaten Nagan Raya;111505;Darul Makmur;1115052035;Alue Raya;2024;Perempuan;35;Jiwa
+1115;Kabupaten Nagan Raya;111505;Darul Makmur;1115052049;Blang Luah;2024;Perempuan;22;Jiwa
+1115;Kabupaten Nagan Raya;111505;Darul Makmur;1115052050;Sumber Makmur;2024;Perempuan;21;Jiwa
+1115;Kabupaten Nagan Raya;111505;Darul Makmur;1115052045;Suka Ramai;2024;Perempuan;30;Jiwa
+1111;Kabupaten Bireuen;111104;Jeumpa;1111042038;Lipah Cut;2024;Perempuan;8;Jiwa
+1111;Kabupaten Bireuen;111104;Jeumpa;1111042049;Blang Bladeh;2024;Perempuan;16;Jiwa
+1111;Kabupaten Bireuen;111104;Jeumpa;1111042044;Blang Cot Baroh;2024;Perempuan;4;Jiwa
+1111;Kabupaten Bireuen;111104;Jeumpa;1111042045;Blang Cot Tunong;2024;Perempuan;4;Jiwa
+1111;Kabupaten Bireuen;111105;Peusangan;1111052010;Panton Geulima;2024;Perempuan;15;Jiwa
+1111;Kabupaten Bireuen;111105;Peusangan;1111052014;Matang Cot Paseh;2024;Perempuan;20;Jiwa
+1111;Kabupaten Bireuen;111109;Juli;1111092020;Krueng Simpo;2024;Perempuan;35;Jiwa
+1111;Kabupaten Bireuen;111110;Jangka;1111102005;Jangka Alue Bie;2024;Perempuan;28;Jiwa
+1111;Kabupaten Bireuen;111110;Jangka;1111102019;Tanah Anoe;2024;Perempuan;34;Jiwa
+1111;Kabupaten Bireuen;111110;Jangka;1111102020;Lhok Bugeng;2024;Perempuan;2;Jiwa
+1111;Kabupaten Bireuen;111110;Jangka;1111102021;Lampoh Rayeuk;2024;Perempuan;4;Jiwa
+1111;Kabupaten Bireuen;111109;Juli;1111092031;Bale Panah;2024;Perempuan;9;Jiwa
+1111;Kabupaten Bireuen;111109;Juli;1111092032;Ranto Panyang;2024;Perempuan;2;Jiwa
+1111;Kabupaten Bireuen;111108;Pandrah;1111082018;Uteuen Kruet;2024;Perempuan;25;Jiwa
+1111;Kabupaten Bireuen;111109;Juli;1111092003;Juli Tambo Tanjong;2024;Perempuan;10;Jiwa
+1111;Kabupaten Bireuen;111109;Juli;1111092014;Blang Ketumba;2024;Perempuan;70;Jiwa
+1111;Kabupaten Bireuen;111113;Kota Juang;1111132004;Bireuen Meunasah Capa;2024;Perempuan;56;Jiwa
+1111;Kabupaten Bireuen;111113;Kota Juang;1111132005;Bireuen Meunasah Dayah;2024;Perempuan;123;Jiwa
+1112;Kabupaten Aceh Barat Daya;111203;Manggeng;1112032027;Lhok Pawoh;2024;Perempuan;13;Jiwa
+1114;Kabupaten Aceh Jaya;111406;Panga;1114062002;Kuta Tuha;2024;Perempuan;19;Jiwa
+1115;Kabupaten Nagan Raya;111501;Kuala;1115012028;Ujong Padang;2024;Perempuan;15;Jiwa
+1115;Kabupaten Nagan Raya;111501;Kuala;1115012020;Blang Muko;2024;Perempuan;10;Jiwa
+1115;Kabupaten Nagan Raya;111501;Kuala;1115012021;Pulo Ie;2024;Perempuan;2;Jiwa
+1115;Kabupaten Nagan Raya;111501;Kuala;1115012022;Purworejo;2024;Perempuan;6;Jiwa
+1115;Kabupaten Nagan Raya;111501;Kuala;1115012023;Blang Baro;2024;Perempuan;15;Jiwa
+1115;Kabupaten Nagan Raya;111501;Kuala;1115012031;Ujong Patihah;2024;Perempuan;20;Jiwa
+1114;Kabupaten Aceh Jaya;111408;Darul Hikmah;1114082011;Alue Gajah;2024;Perempuan;20;Jiwa
+1112;Kabupaten Aceh Barat Daya;111204;Susoh;1112042011;Pawoh;2024;Perempuan;2;Jiwa
+1112;Kabupaten Aceh Barat Daya;111204;Susoh;1112042012;Padang Baru;2024;Perempuan;10;Jiwa
+1112;Kabupaten Aceh Barat Daya;111204;Susoh;1112042013;Pulau Kayu;2024;Perempuan;29;Jiwa
+1112;Kabupaten Aceh Barat Daya;111205;Kuala Batee;1112052003;Geulanggang Gajah;2024;Perempuan;14;Jiwa
+1112;Kabupaten Aceh Barat Daya;111205;Kuala Batee;1112052011;Kampung Tengah;2024;Perempuan;8;Jiwa
+1112;Kabupaten Aceh Barat Daya;111201;Blangpidie;1112012016;Keude Siblah;2024;Perempuan;55;Jiwa
+1112;Kabupaten Aceh Barat Daya;111201;Blangpidie;1112012017;Kuta Bahagia;2024;Perempuan;0;Jiwa
+1112;Kabupaten Aceh Barat Daya;111201;Blangpidie;1112012018;Kuta Tinggi;2024;Perempuan;18;Jiwa
+1111;Kabupaten Bireuen;111117;Kuta Blang;1111172009;Cot Baroh;2024;Perempuan;7;Jiwa
+1111;Kabupaten Bireuen;111117;Kuta Blang;1111172010;Paloh Peuradi;2024;Perempuan;1;Jiwa
+1111;Kabupaten Bireuen;111117;Kuta Blang;1111172024;Pulo Blang;2024;Perempuan;8;Jiwa
+1111;Kabupaten Bireuen;111113;Kota Juang;1111132010;Pulo Kiton;2024;Perempuan;221;Jiwa
+1111;Kabupaten Bireuen;111113;Kota Juang;1111132011;Lhok Awe Teungoh;2024;Perempuan;3;Jiwa
+1111;Kabupaten Bireuen;111113;Kota Juang;1111132012;Geulanggang Teungoh;2024;Perempuan;0;Jiwa
+1111;Kabupaten Bireuen;111113;Kota Juang;1111132013;Cot Gapu;2024;Perempuan;8;Jiwa
+1106;Kabupaten Aceh Besar;110609;Mesjid Raya;1106092006;Meunasah Mon;2024;Laki-laki;32;Jiwa
+1111;Kabupaten Bireuen;111113;Kota Juang;1111132015;Geulanggang Gampong;2024;Perempuan;15;Jiwa
+1111;Kabupaten Bireuen;111113;Kota Juang;1111132016;Blang Tingkeum;2024;Perempuan;30;Jiwa
+1111;Kabupaten Bireuen;111112;Peulimbang;1111122013;Padang Kasab;2024;Perempuan;16;Jiwa
+1111;Kabupaten Bireuen;111111;Simpang Mamplam;1111112041;Meunasah Barat;2024;Perempuan;7;Jiwa
+1111;Kabupaten Bireuen;111105;Peusangan;1111052033;Gampong Raya Dagang;2024;Perempuan;45;Jiwa
+1111;Kabupaten Bireuen;111105;Peusangan;1111052034;Gampong Raya Tambo;2024;Perempuan;20;Jiwa
+1111;Kabupaten Bireuen;111105;Peusangan;1111052035;Kapa;2024;Perempuan;0;Jiwa
+1111;Kabupaten Bireuen;111105;Peusangan;1111052036;Blang Panjoe;2024;Perempuan;30;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032009;Tan Saril;2024;Laki-laki;16;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032010;Blang Kolak Ii;2024;Laki-laki;285;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032011;Umang;2024;Laki-laki;30;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032012;Simpang Iv;2024;Laki-laki;22;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072016;Paya Jeget;2024;Laki-laki;10;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032018;Empus Talu;2024;Laki-laki;31;Jiwa
+1104;Kabupaten Aceh Tengah;110402;Silih Nara;1104022033;Wih Pesam;2024;Laki-laki;6;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032020;Kebet;2024;Laki-laki;20;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032021;Lemah Burbana;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072021;Simpang Kelaping;2024;Laki-laki;10;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032023;Nunang Antara;2024;Laki-laki;20;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072009;Ie Relop;2024;Laki-laki;5;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072010;Kayu Kul;2024;Laki-laki;8;Jiwa
+1104;Kabupaten Aceh Tengah;110402;Silih Nara;1104022018;Burni Bius Baru;2024;Laki-laki;30;Jiwa
+1104;Kabupaten Aceh Tengah;110402;Silih Nara;1104022007;Pepayungen Angkup;2024;Laki-laki;9;Jiwa
+1104;Kabupaten Aceh Tengah;110402;Silih Nara;1104022008;Remesen;2024;Laki-laki;73;Jiwa
+1104;Kabupaten Aceh Tengah;110402;Silih Nara;1104022009;Rutih;2024;Laki-laki;6;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032001;Blang Kolak I;2024;Laki-laki;120;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072011;Kedelah;2024;Laki-laki;3;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032003;Mongal;2024;Laki-laki;147;Jiwa
+1104;Kabupaten Aceh Tengah;110403;Bebesen;1104032004;Daling;2024;Laki-laki;1;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072038;Wih Terjun;2024;Laki-laki;2;Jiwa
+1104;Kabupaten Aceh Tengah;110407;Pegasing;1104072039;Belang Bebangka;2024;Laki-laki;11;Jiwa
+1104;Kabupaten Aceh Tengah;110410;Ketol;1104102002;Blang Mancung;2024;Laki-laki;10;Jiwa
+1104;Kabupaten Aceh Tengah;110410;Ketol;1104102008;Jaluk;2024;Laki-laki;10;Jiwa
+1104;Kabupaten Aceh Tengah;110410;Ketol;1104102025;Selon;2024;Laki-laki;8;Jiwa
+1104;Kabupaten Aceh Tengah;110411;Kebayakan;1104112001;Bukit Sama;2024;Laki-laki;10;Jiwa
+1104;Kabupaten Aceh Tengah;110411;Kebayakan;1104112015;Kala Lengkio;2024;Laki-laki;5;Jiwa
+1104;Kabupaten Aceh Tengah;110411;Kebayakan;1104112016;Kute Lot;2024;Laki-laki;10;Jiwa
+1104;Kabupaten Aceh Tengah;110412;Kute Panang;1104122011;Tawar Miko;2024;Laki-laki;12;Jiwa
+1104;Kabupaten Aceh Tengah;110413;Celala;1104132010;Melala;2024;Laki-laki;22;Jiwa
+1104;Kabupaten Aceh Tengah;110413;Celala;1104132003;Berawang Gading;2024;Laki-laki;2;Jiwa
+1104;Kabupaten Aceh Tengah;110413;Celala;1104132004;Celala;2024;Laki-laki;2;Jiwa
+1104;Kabupaten Aceh Tengah;110413;Celala;1104132014;Tanoh Depet;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110413;Celala;1104132015;Uning Berawang Ramung;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110413;Celala;1104132016;Blang Delem;2024;Laki-laki;3;Jiwa
+1104;Kabupaten Aceh Tengah;110413;Celala;1104132017;Depet Indah;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172001;Takengon Timur;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172002;Asir Asir;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172003;Asir Asir Asia;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172004;Bale Atu;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172005;Bujang;2024;Laki-laki;8;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172006;Gunung Suku;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172007;Hakim Bale Bujang;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172008;Kenawat;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172009;Kuteni Reje;2024;Laki-laki;0;Jiwa
+1104;Kabupaten Aceh Tengah;110417;Laut Tawar;1104172010;Pedemun One One;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012001;Suak Indrapuri;2024;Laki-laki;2;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012002;Kampung Belakang;2024;Laki-laki;11;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012005;Ujong Baroh;2024;Laki-laki;102;Jiwa
+1104;Kabupaten Aceh Tengah;110418;Atu Lintang;1104182004;Merah Muyang;2024;Laki-laki;5;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012007;Drien Rampak;2024;Laki-laki;30;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012009;Pasar Aceh;2024;Laki-laki;2;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012010;Padang Seurahet;2024;Laki-laki;10;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012011;Panggong;2024;Laki-laki;6;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012016;Blang Beurandang;2024;Laki-laki;100;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012013;Gampong Darat;2024;Laki-laki;31;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012018;Suak Raya;2024;Laki-laki;14;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012019;Suak Nie;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012020;Leuhan;2024;Laki-laki;111;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012021;Suak Sigadeng;2024;Laki-laki;12;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022001;Keude Aron;2024;Laki-laki;5;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022002;Kampong Mesjid;2024;Laki-laki;5;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022003;Padang Mancang;2024;Laki-laki;10;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022004;Meunasah Buloh;2024;Laki-laki;6;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022005;Alue Tampak;2024;Laki-laki;20;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022006;Beureugang;2024;Laki-laki;7;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022009;Meunasah Ara;2024;Laki-laki;5;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022010;Meunasah Rayeuk;2024;Laki-laki;10;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022017;Pasi Jeumpa;2024;Laki-laki;10;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022023;Tanjong Bungong;2024;Laki-laki;23;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022024;Alue On;2024;Laki-laki;2;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022047;Alue Peudeung;2024;Laki-laki;45;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022048;Pasi Meugat;2024;Laki-laki;2;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022049;Babah Meulaboh;2024;Laki-laki;3;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022050;Pasi Kumbang;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022051;Padang Sikabu;2024;Laki-laki;134;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022052;Sawang Teubei;2024;Laki-laki;7;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022053;Alue Lhok;2024;Laki-laki;10;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022063;Keuramat;2024;Laki-laki;15;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042001;Kuala Bhee;2024;Laki-laki;36;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042002;Pasi Lunak;2024;Laki-laki;13;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042003;Pasi Aceh;2024;Laki-laki;5;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042004;Aron Tunong;2024;Laki-laki;6;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042005;Aron Baroh;2024;Laki-laki;8;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042014;Lueng Tanoh Tho;2024;Laki-laki;10;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042015;Gunong Rambong;2024;Laki-laki;2;Jiwa
+1105;Kabupaten Aceh Barat;110503;Sungai Mas;1105032008;Tuwi Saya;2024;Laki-laki;4;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042017;Gunong Hampa;2024;Laki-laki;8;Jiwa
+1105;Kabupaten Aceh Barat;110505;Samatiga;1105052028;Suak Pante Breuh;2024;Laki-laki;24;Jiwa
+1105;Kabupaten Aceh Barat;110505;Samatiga;1105052029;Suak Geudeubang;2024;Laki-laki;1;Jiwa
+1105;Kabupaten Aceh Barat;110505;Samatiga;1105052030;Suak Seumaseh;2024;Laki-laki;3;Jiwa
+1105;Kabupaten Aceh Barat;110506;Bubon;1105062004;Blang Sibeutong;2024;Laki-laki;9;Jiwa
+1105;Kabupaten Aceh Barat;110506;Bubon;1105062009;Kuala Pling;2024;Laki-laki;8;Jiwa
+1105;Kabupaten Aceh Barat;110506;Bubon;1105062010;Layung;2024;Laki-laki;2;Jiwa
+1105;Kabupaten Aceh Barat;110507;Arongan Lambalek;1105072012;Peuribu;2024;Laki-laki;11;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092003;Mesjid Tuha;2024;Laki-laki;9;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092004;Ujong Tanoh Darat;2024;Laki-laki;12;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092005;Pasi Aceh Tunong;2024;Laki-laki;2;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092006;Pasi Aceh Baroh;2024;Laki-laki;4;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092007;Buloh;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092008;Pulo Teungoh;2024;Laki-laki;1;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092009;Paya Baro Ranto P;2024;Laki-laki;29;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092010;Ranub Dong;2024;Laki-laki;2;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092011;Pasi Pinang;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092012;Pasi Mesjid;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092013;Meureubo;2024;Laki-laki;12;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092014;Langung;2024;Laki-laki;24;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092015;Gunong Kleng;2024;Laki-laki;70;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092016;Ujong Drien;2024;Laki-laki;19;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092017;Peunaga Rayeuk;2024;Laki-laki;5;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092018;Peunaga Pasi;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092019;Peunaga Cut Ujong;2024;Laki-laki;5;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092020;Reudeup;2024;Laki-laki;30;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092021;Balee;2024;Laki-laki;90;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092022;Paya Peunaga;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092023;Ujong Tanjong;2024;Laki-laki;15;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092024;Pucok Reudeup;2024;Laki-laki;25;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092025;Sumber Batu;2024;Laki-laki;20;Jiwa
+1105;Kabupaten Aceh Barat;110509;Meureubo;1105092026;Bukit Jaya;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110510;Woyla Barat;1105102001;Blang Luah Lm;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110510;Woyla Barat;1105102002;Cot Rambong;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110510;Woyla Barat;1105102003;Lhok Malee;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110510;Woyla Barat;1105102004;Pasi Malee;2024;Laki-laki;5;Jiwa
+1105;Kabupaten Aceh Barat;110510;Woyla Barat;1105102005;Napai;2024;Laki-laki;13;Jiwa
+1105;Kabupaten Aceh Barat;110510;Woyla Barat;1105102006;Blang Cot Mameh;2024;Laki-laki;0;Jiwa
+1105;Kabupaten Aceh Barat;110510;Woyla Barat;1105102007;Blang Cot Rubek;2024;Laki-laki;35;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022001;Mon Ikeun;2024;Laki-laki;49;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022002;Nusa;2024;Laki-laki;17;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022003;Weu Raya;2024;Laki-laki;30;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022004;Lamkrut;2024;Laki-laki;52;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022005;Lamgaboh;2024;Laki-laki;11;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022006;Lambaro Kueh;2024;Laki-laki;35;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022007;Lam Ateuk;2024;Laki-laki;15;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022008;Kueh;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022009;Tanjong;2024;Laki-laki;5;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022010;Aneuk Paya;2024;Laki-laki;25;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022011;Seubun Keutapang;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022012;Seubun Ayon;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022013;Lambaro Seubun;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022014;Naga Umbang;2024;Laki-laki;20;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022015;Lampaya;2024;Laki-laki;95;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022016;Meunasah Mesjid Lamlhom;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022017;Meunasah Mon Cut;2024;Laki-laki;3;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022018;Meunasah Manyang;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022019;Meunasah Lam Girek;2024;Laki-laki;1;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022020;Meunasah Lambaro;2024;Laki-laki;20;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022021;Meunasah Baro  Lamlhom;2024;Laki-laki;13;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022022;Meunasah Beutong;2024;Laki-laki;4;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022023;Mns. Mesjid Lampuuk;2024;Laki-laki;4;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022024;Meunasah Balee;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022025;Meunasah Karieng;2024;Laki-laki;4;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022026;Lamcok;2024;Laki-laki;16;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022027;Meunasah Cut;2024;Laki-laki;3;Jiwa
+1106;Kabupaten Aceh Besar;110602;Lhoknga;1106022028;Meunasah Blang;2024;Laki-laki;2;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032001;Reukih Dayah;2024;Laki-laki;57;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032002;Indrapuri;2024;Laki-laki;2;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032003;Lam Leubok;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032004;Empee Ara;2024;Laki-laki;3;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032005;Limo Blang;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032006;Limo Mesjid;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032007;Limo Lamleuweung;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032008;Lheue;2024;Laki-laki;10;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032009;Meusale;2024;Laki-laki;10;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032040;Lampanah Dayah;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032041;Lampanah Baro;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032042;Lampanah Tunong;2024;Laki-laki;2;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032043;Groet Blang;2024;Laki-laki;2;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032044;Groet Manyang;2024;Laki-laki;6;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032045;Groet  Baro;2024;Laki-laki;13;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032046;Jruek Bak Kreh;2024;Laki-laki;54;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032047;Jruek Balee;2024;Laki-laki;4;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032049;Mon Alue;2024;Laki-laki;1;Jiwa
+1106;Kabupaten Aceh Besar;110603;Indrapuri;1106032050;Lambeunot;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110604;Seulimeum;1106042020;Bayu;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110604;Seulimeum;1106042021;Ayon;2024;Laki-laki;1;Jiwa
+1106;Kabupaten Aceh Besar;110604;Seulimeum;1106042022;Lamteuba Droe;2024;Laki-laki;52;Jiwa
+1106;Kabupaten Aceh Besar;110604;Seulimeum;1106042023;Pulo;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110604;Seulimeum;1106042024;Lampantee;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110604;Seulimeum;1106042025;Lambada;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110604;Seulimeum;1106042026;Blang Tingkeum;2024;Laki-laki;5;Jiwa
+1106;Kabupaten Aceh Besar;110604;Seulimeum;1106042027;Ateuk;2024;Laki-laki;10;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072022;Daroy Kameu;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072023;Geundrieng;2024;Laki-laki;25;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072024;Garot;2024;Laki-laki;90;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072025;Pasheu Beutong;2024;Laki-laki;14;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072026;Lampasi Engking;2024;Laki-laki;1;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072027;Jeumpet Ajun;2024;Laki-laki;9;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072028;Gue Gajah;2024;Laki-laki;10;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072029;Leu Ue;2024;Laki-laki;10;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072030;Ulee Lueng;2024;Laki-laki;12;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072031;Punie;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072032;Ulee Tuy;2024;Laki-laki;1;Jiwa
+1106;Kabupaten Aceh Besar;110601;Lhoong;1106012013;Teungoh Geunteut;2024;Laki-laki;2;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072012;Payaroh;2024;Laki-laki;25;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072008;Lagang;2024;Laki-laki;40;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072009;Lamsiteh;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072010;Lamkawe;2024;Laki-laki;10;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072011;Lheu Blang;2024;Laki-laki;0;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072001;Lampeuneurut Ujong Blang;2024;Laki-laki;42;Jiwa
+1106;Kabupaten Aceh Besar;110608;Peukan Bada;1106082008;Lam Lumpu;2024;Laki-laki;35;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072003;Lamreung;2024;Laki-laki;15;Jiwa
+1106;Kabupaten Aceh Besar;110607;Darul Imarah;1106072004;Lamcot;2024;Laki-laki;4;Jiwa
+1106;Kabupaten Aceh Besar;110608;Peukan Bada;1106082026;Rima Keuneurom;2024;Laki-laki;50;Jiwa
+1106;Kabupaten Aceh Besar;110610;Ingin Jaya;1106102007;Siron;2024;Laki-laki;64;Jiwa
+1106;Kabupaten Aceh Besar;110610;Ingin Jaya;1106102020;Ateuk Lueng Ie;2024;Laki-laki;15;Jiwa
+1106;Kabupaten Aceh Besar;110610;Ingin Jaya;1106102021;Cot Alue;2024;Laki-laki;3;Jiwa
+1106;Kabupaten Aceh Besar;110609;Mesjid Raya;1106092005;Lamreh;2024;Laki-laki;200;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012016;Blang Beurandang;2024;Perempuan;92;Jiwa
+1105;Kabupaten Aceh Barat;110501;Johan Pahlawan;1105012020;Leuhan;2024;Perempuan;143;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022047;Alue Peudeung;2024;Perempuan;23;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042002;Pasi Lunak;2024;Perempuan;8;Jiwa
+1105;Kabupaten Aceh Barat;110504;Woyla;1105042003;Pasi Aceh;2024;Perempuan;15;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022050;Pasi Kumbang;2024;Perempuan;0;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022051;Padang Sikabu;2024;Perempuan;114;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022052;Sawang Teubei;2024;Perempuan;4;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022053;Alue Lhok;2024;Perempuan;8;Jiwa
+1105;Kabupaten Aceh Barat;110502;Kaway Xvi;1105022063;Keuramat;2024;Perempuan;7;Jiwa
